@@ -1,20 +1,23 @@
 # FoodPanda_SQL_Analysis
-SQLite-based analysis of Food Panda orders using DBeaver and SQLite.
+SQLite-based analysis of Foodpanda orders using SQlite and also made interactive dashboard using microsoft Power BI.
 
 ## 📁 Files Included
 - `foodpanda_analysis.db`: SQLite database file
 - `Script-5.sql`: SQL queries for data analysis
+- `dashboadsOFfoodpanda.pbix`: Interactive Dashboard for the insight of sales
 
 ## 🔍 Key Insights
 - Customer segmentation
-- Order frequency trends
+- Order trends 
 - Churn prediction
 - Price analysis by category
+- Rating for each restaurant
 
 ## 🛠 Tools Used
 - SQLite
 - DBeaver
-- GitHub
+- GitHu
+- Power BI
 
 ## 🚀 How to Use
 1. Clone the repository
